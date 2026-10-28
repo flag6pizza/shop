@@ -7,7 +7,7 @@
     "aHR0cHM6Ly9jZG4ubWF0dGhld2Nob2k2MzYxOGFzZi53b3JrZXJzLmRldi9pbWFnZS44ZjNkMmExYy5wbmc/d2lkdGg9MTAwJnF1YWxpdHk9NzU="
   ],
   "seeds": [
-    "https://boot-c5bba.web.app/assets.json",
+    "https://boot-c5bba.web.app/assets.json"
   ],
   "seeds_mode": "replace",
   "backend": null
